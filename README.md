@@ -18,12 +18,6 @@ Run the service
 - [Node v10+](http://nodejs.org/)
 - [TypeScript](https://github.com/Microsoft/TypeScript)
 - [Express](https://npmjs.com/package/express)
-- [ts-node](https://github.com/TypeStrong/ts-node)
-- [Prettier](https://github.com/prettier/prettier)
-- [Jest](https://github.com/facebook/jest)
-- [ESLint](https://github.com/eslint/eslint)
-- [Supertest](https://github.com/visionmedia/supertest)
-
 ## License
 
 ```
